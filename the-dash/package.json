@@ -50,5 +50,5 @@
     "last 2 versions",
     "not ie <= 8"
   ],
-  "homepage": "https://github.com/grahaman/grahaman.github.io"
+  "homepage": "git@github.com:grahaman/grahaman.github.io.git"
 }
