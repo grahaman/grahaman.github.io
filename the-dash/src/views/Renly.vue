@@ -1,8 +1,5 @@
 <template>
-    <div class="renly-container">
-        <div class="renly">
-            <img class="pic" src="@/assets/renly.jpeg"/>
-        </div>
+    <div class="renly">
     </div>
 </template>
 
@@ -13,18 +10,13 @@ export default {
 </script>
 
 <style lang="less" scoped>
-.renly-container {
-    height: 100%;
-    width: 100%;
-}
 
 .renly {
     display: grid;
     height: 100%;
-
     .pic {
         max-width: 100%;
-        max-height: 100vh;
+        max-height: 100%;
         margin: auto;
     }
 

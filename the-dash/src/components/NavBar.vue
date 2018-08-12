@@ -18,7 +18,6 @@ export default {
 .nav-bar {
     width: 100%;
     height: 52px;
-    // background-color: rgba(255, 255, 255, 0.5);
     display: flex;
     line-height: 52px;
     display: flex;

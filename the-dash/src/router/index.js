@@ -16,7 +16,7 @@ const router = new Router({
             component: Dashboard
         },
         {
-            path: '/ren',
+            path: '/renly',
             name: 'Renly',
             component: Renly
         }

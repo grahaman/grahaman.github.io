@@ -9,7 +9,7 @@
         <div class="nav-right">
             <router-link 
             class="nav-item"
-            to="/ren">
+            to="/renly">
                 <div>Renly</div>
             </router-link>
         </div>
@@ -58,7 +58,7 @@ export default {
         color: #f5f6f7;
     }
     div:hover {
-        background-color: rgba(0, 0, 0, 0.1);
+        background-color: rgba(255, 255, 255, 0.1);
     }
 }
     
